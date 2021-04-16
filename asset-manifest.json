@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/nicolasferraresso/static/css/main.b4a8af0a.chunk.css",
+    "main.js": "/nicolasferraresso/static/js/main.8798f9cd.chunk.js",
+    "main.js.map": "/nicolasferraresso/static/js/main.8798f9cd.chunk.js.map",
+    "runtime-main.js": "/nicolasferraresso/static/js/runtime-main.7fd0b358.js",
+    "runtime-main.js.map": "/nicolasferraresso/static/js/runtime-main.7fd0b358.js.map",
+    "static/js/2.9f41c84a.chunk.js": "/nicolasferraresso/static/js/2.9f41c84a.chunk.js",
+    "static/js/2.9f41c84a.chunk.js.map": "/nicolasferraresso/static/js/2.9f41c84a.chunk.js.map",
+    "static/css/3.00373544.chunk.css": "/nicolasferraresso/static/css/3.00373544.chunk.css",
+    "static/js/3.43070133.chunk.js": "/nicolasferraresso/static/js/3.43070133.chunk.js",
+    "static/js/3.43070133.chunk.js.map": "/nicolasferraresso/static/js/3.43070133.chunk.js.map",
+    "static/css/4.3e7d09e6.chunk.css": "/nicolasferraresso/static/css/4.3e7d09e6.chunk.css",
+    "static/js/4.fe942e71.chunk.js": "/nicolasferraresso/static/js/4.fe942e71.chunk.js",
+    "static/js/4.fe942e71.chunk.js.map": "/nicolasferraresso/static/js/4.fe942e71.chunk.js.map",
+    "index.html": "/nicolasferraresso/index.html",
+    "precache-manifest.ba4b094f2ba903ca04e79b793a5f3d64.js": "/nicolasferraresso/precache-manifest.ba4b094f2ba903ca04e79b793a5f3d64.js",
+    "service-worker.js": "/nicolasferraresso/service-worker.js",
+    "static/css/3.00373544.chunk.css.map": "/nicolasferraresso/static/css/3.00373544.chunk.css.map",
+    "static/css/4.3e7d09e6.chunk.css.map": "/nicolasferraresso/static/css/4.3e7d09e6.chunk.css.map",
+    "static/css/main.b4a8af0a.chunk.css.map": "/nicolasferraresso/static/css/main.b4a8af0a.chunk.css.map",
+    "static/js/2.9f41c84a.chunk.js.LICENSE.txt": "/nicolasferraresso/static/js/2.9f41c84a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/nicolasferraresso/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMailDark.svg": "/nicolasferraresso/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/nicolasferraresso/static/media/developerActivity.59389695.svg",
+    "static/media/liceoLogo.png": "/nicolasferraresso/static/media/liceoLogo.8c41f85e.png",
+    "static/media/manOnTable.svg": "/nicolasferraresso/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/nicolasferraresso/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/nicolasferraresso/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fd0b358.js",
+    "static/js/2.9f41c84a.chunk.js",
+    "static/css/main.b4a8af0a.chunk.css",
+    "static/js/main.8798f9cd.chunk.js"
+  ]
+}
