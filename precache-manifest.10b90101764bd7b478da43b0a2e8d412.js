@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0bd8335c91f9648e1f2e589efa5378f3",
+    "revision": "704c33cc3667c5a1beb9ffc5459784ce",
     "url": "/nicolasferraresso/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nicolasferraresso/static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "3040178f1454765f0199",
+    "revision": "2562c06bd281d83d9e05",
     "url": "/nicolasferraresso/static/css/main.b4a8af0a.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nicolasferraresso/static/js/4.fe942e71.chunk.js"
   },
   {
-    "revision": "3040178f1454765f0199",
-    "url": "/nicolasferraresso/static/js/main.8798f9cd.chunk.js"
+    "revision": "2562c06bd281d83d9e05",
+    "url": "/nicolasferraresso/static/js/main.ec4e02bb.chunk.js"
   },
   {
     "revision": "c06fe8da2947e418c5f5",
